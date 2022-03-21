@@ -1,0 +1,17 @@
+{
+  "name": "reader_engagement",
+  "authors": [
+    "Kelsey Neis <neis@umn.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
